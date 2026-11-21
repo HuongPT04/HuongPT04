@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="center">🧩 Programming Languages & Databases</h3>
+<h3 align="center">🧩 Programming Languages </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffd43b"/>
@@ -88,25 +88,27 @@
 
 ---
 
-### 🕵️ DFIR & Malware Analysis
+<h3 align="center">🕵️ DFIR & Malware Analysis</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Sysmon-555555?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Process_Explorer-8B1E3F?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Process_Hacker-555555?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Volatility-555555?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Volatility_3-8B1E3F?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Binwalk-8B1E3F?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-555555?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Ghidra-8B1E3F?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Radare2-555555?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/YARA-8B1E3F?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Windows_Sandbox-0078D6?style=flat-square&labelColor=24292e&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cuckoo_Sandbox-555555?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Any.Run-8B1E3F?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/Joe_Sandbox-555555?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/MalwareBazaar-8B1E3F?style=flat-square&labelColor=24292e"/>
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&labelColor=24292e&logo=virustotal&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Volatility-6610F2?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility3-6610F2?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sysmon-4B1D78?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Binwalk-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Process%20Hacker-0095FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Process%20Explorer-0078D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDA%20Pro-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ghidra-1E7E34?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Radare2-7B1FA2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/YARA-001F7F?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cuckoo%20Sandbox-FF4500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Any.Run-28A745?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Joe%20Sandbox-8B0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Windows%20Sandbox-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MalwareBazaar-FF8C00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VirusTotal-DC143C?style=flat-square"/>
 </p>
 
 ---
